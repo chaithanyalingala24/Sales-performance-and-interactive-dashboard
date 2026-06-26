@@ -32,10 +32,8 @@ The dashboard uses sales data containing information such as:
 - Track profit and revenue trends
 
 ## Files included
-- Sales data & dashboard analysis.ipynb
 - Sales data dashboard.pbix
 - Sales_Dataset.csv
-- customer_segments.csv
 
 ## Conclusion
 The Sales Data Dashboard provides a clear view of business performance and helps stakeholders make data-driven decisions quickly and effectively.
